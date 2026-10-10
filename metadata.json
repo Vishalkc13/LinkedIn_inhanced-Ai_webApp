@@ -1,0 +1,6 @@
+{
+  "name": "JobReady AI - Executive Career Intelligence",
+  "description": "Analyze target company tiers and generate high-signal project proofs, ready-to-publish LinkedIn thought-leadership drafts, and high-ROI skill roadmap credentials calibrated for hiring managers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
